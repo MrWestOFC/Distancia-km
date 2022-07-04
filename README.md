@@ -5,5 +5,5 @@
 
 <hr>
 
-- Esse é o meu pequeno projeto em java em que testo as minhas capacidades usufruindo da lógica de programação ao meu favor. É um prograva em java simples de conversão de km para metros e milhas.
+- Esse é o meu pequeno projeto em java em que testo as minhas capacidades usufruindo da lógica de programação ao meu favor. É um programa em java simples de conversão de km para metros e milhas.
 
